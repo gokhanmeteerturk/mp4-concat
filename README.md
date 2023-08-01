@@ -1,6 +1,7 @@
 # MP4 File Concatenator
 
-![MP4 File Concatenator](https://raw.githubusercontent.com/gokhanmeteerturk/mp4-concat/main/screenshot.png)
+![27](https://github.com/gokhanmeteerturk/mp4-concat/assets/92143124/f9e0c443-248c-4202-9cf4-f676aaecd569)
+
 
 MP4 File Concatenator is a simple graphical application built using Python and Tkinter that allows you to merge multiple MP4 video files into a single output file. This tool uses FFmpeg for the actual merging process and provides an easy-to-use interface to arrange the order of the videos before merging.
 
