@@ -53,7 +53,9 @@ pyinstaller --onefile -i"favicon.ico" -w main.py --collect-data sv_ttk
 To run the application, execute the `main.py` script:
 
 ```bash
+
 python main.py
+
 ```
 
 The MP4 File Concatenator window will appear:
@@ -66,7 +68,7 @@ The MP4 File Concatenator window will appear:
 
 - Once you choose the output file location and name, the application will use FFmpeg to concatenate the selected MP4 files into a single output file. The process may take some time, depending on the size and number of input files.
 
-- After the merging process is complete, you will find the merged video file at the specified location.
+- After the merging process is complete, you will find the merged video file at specified location.
 
 ## Contributing
 
